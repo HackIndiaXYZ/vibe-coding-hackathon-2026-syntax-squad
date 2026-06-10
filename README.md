@@ -1,5 +1,15 @@
 # vibe-coding-hackathon-2026-syntax-squad
 Hackathon team repository for Syntax Squad - [hackindia-team:vibe-coding-hackathon-2026:syntax-squad]
+
+Team Name: Syntax Squad
+Project Name: StudySync AI
+GitHub Repo: https://github.com/gujjaladeepika1-prog/StudySync-AI
+demo video link:https://drive.google.com/file/d/1FRLhEL0FvLuKnDFmGwwnZzFljCudVpAb/view?usp=drivesdk
+Problem Statement: Student Innovation
+Description: AI-powered exam preparation platform generating exam-style questions and solutions.
+
+
+
 # StudySync AI
 
 A Lovable + TanStack Start project for generating study resources, previous-year questions, and managing a question bank.
@@ -96,5 +106,8 @@ bun run format
 - `src/components/PYQDialog.tsx` — question generation dialog UI
 - `src/routes/_authenticated/question-bank.tsx` — saved question bank page
 - `vite.config.js` — Lovable TanStack Vite config
-=======
+
+
+
+
 
