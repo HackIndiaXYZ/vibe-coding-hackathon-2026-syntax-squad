@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # StudySync AI
 
 A Lovable + TanStack Start project for generating study resources, previous-year questions, and managing a question bank.
