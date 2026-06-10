@@ -3,9 +3,13 @@ Hackathon team repository for Syntax Squad - [hackindia-team:vibe-coding-hackath
 
 Team Name: Syntax Squad
 Project Name: StudySync AI
+
 GitHub Repo: https://github.com/gujjaladeepika1-prog/StudySync-AI
+
 demo video link:https://drive.google.com/file/d/1FRLhEL0FvLuKnDFmGwwnZzFljCudVpAb/view?usp=drivesdk
+
 Problem Statement: Student Innovation
+
 Description: AI-powered exam preparation platform generating exam-style questions and solutions.
 
 
