@@ -1,4 +1,5 @@
-
+# vibe-coding-hackathon-2026-syntax-squad
+Hackathon team repository for Syntax Squad - [hackindia-team:vibe-coding-hackathon-2026:syntax-squad]
 # StudySync AI
 
 A Lovable + TanStack Start project for generating study resources, previous-year questions, and managing a question bank.
@@ -96,6 +97,4 @@ bun run format
 - `src/routes/_authenticated/question-bank.tsx` — saved question bank page
 - `vite.config.js` — Lovable TanStack Vite config
 =======
-# vibe-coding-hackathon-2026-syntax-squad
-Hackathon team repository for Syntax Squad - [hackindia-team:vibe-coding-hackathon-2026:syntax-squad]
->>>>>>> dd6cf2d1b3711ab2b4d0d7fa9d9e3da35668a346
+
